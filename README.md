@@ -5,3 +5,7 @@ Data mining is the practice of examining and deriving purposeful information fro
 
 Dataset
 The dataset which is used in this project, is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
+
+Live LINK:https://crops-recommender-app.herokuapp.com/
+
+Refer to 
