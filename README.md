@@ -8,4 +8,4 @@ The dataset which is used in this project, is collected from Kaggle. Here is the
 
 Live LINK:https://crops-recommender-app.herokuapp.com/
 
-Refer to 
+Refer to https://github.com/harpreetng22/crops-recommender-app/blob/main/Crop%20Recommendation%20System.ipynb
